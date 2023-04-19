@@ -49,3 +49,11 @@
 .bg-lightgreen{
 	background: #75CE9F;
 }
+
+footer *{  
+	margin-bottom: 0; /* removes default <p> tag margin from the bottom */
+}
+
+footer {
+	box-shadow: 3px -10px 50px rgba(0,0,0,0.33);
+}
